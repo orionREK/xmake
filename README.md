@@ -221,7 +221,7 @@ cross         Common cross compilation toolchain
 nasm          NASM Assembler
 gcc           GNU Compiler Collection
 mingw         Minimalist GNU for Windows
-gnu-rm        GNU Arm Embedded Toolchain
+gnu-arm        GNU Arm Embedded Toolchain
 envs          Environment variables toolchain
 fasm          Flat Assembler
 tinycc        Tiny C Compiler
